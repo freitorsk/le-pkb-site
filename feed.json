@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Перелётный крафт-бар",
+    "description": "",
+    "home_page_url": "https://flyingcraftbar.net",
+    "feed_url": "https://flyingcraftbar.net/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "SPW"
+    },
+    "items": [
+    ]
+}
