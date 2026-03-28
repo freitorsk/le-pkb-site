@@ -305,3 +305,28 @@ footer a:hover {
 .has-submenu:hover > .submenu {
     display: block;
 }
+
+.post__image--center,
+img.aligncenter,
+figure.aligncenter {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.post__image--center,
+figure.aligncenter {
+  text-align: center;
+}
+
+.post__image--center img,
+figure.aligncenter img {
+  display: block;
+  margin: 0 auto;
+}
+
+.post__content img,
+main img {
+  max-width: 100%;
+  height: auto;
+}
